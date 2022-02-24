@@ -1,2 +1,2 @@
-# GA-DS-Repo
-A repo for my part-time data science course through General Assembly!
+# dat-master
+Master Repo For DAT Material
